@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "OrT1kUUVxxnm3EePDGwjlmLe7qZ9ulUtoEpPxUEG5eI=",
+  "Source": "WebChatApi",
+  "BasePath": "_content/WebChatApi",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
